@@ -1,1 +1,2 @@
-Hey 
+# Welcome to Glitch Hosting
+Glitch Hosting is a dynamic game and web hosting provider founded by gaming enthusiasts TheRush and JABinDaHouse. Based in Germany, Glitch Hosting delivers reliable, performance-driven hosting solutions tailored for gamers, developers, and communities alike. With a focus on exceptional customer support, innovative features, and user-friendly interfaces, Glitch Hosting stands out by providing powerful server options that cater to both beginners and professionals. Whether you're hosting a Minecraft server, a complex web application, or a personal website, Glitch Hosting has the resources and expertise to bring your projects to life with speed, security, and scalability.
